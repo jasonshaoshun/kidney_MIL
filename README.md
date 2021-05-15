@@ -4,7 +4,7 @@ This repository is a software system containing an end-to-end Whole Slide Imagin
 This software is entirely written in Python3 and contains two major parts:
 * Inherited from the original tcga_segmentation a tool to automatically download data from [TCGA GDC Data Portal](https://portal.gdc.cancer.gov/),
 which also handles tiles extraction, background removal, and tumor label extraction.
-* The MIL models in the folder on MIL, can deployed onto the colab notebook to enable the gpu.
+* The MIL models in the folder on Data/MIL, can deployed onto the colab notebook to enable the gpu.
 ## Installation
 
 Use python3 and install mandatory libraries:
